@@ -17,6 +17,10 @@ the python programming language.
 
 The schedule for the class can be found on the courses [canvas page](https://uvu.instructure.com/courses/427573).   
 
+## READING MATERIAL
+
+The official book for the course is [Introducing Python by Lubanovic](https://www.amazon.com/Introducing-Python-Modern-Computing-Packages/dp/1449359361).     
+
 ## OBJECTIVES
 
 By the end of the semester you will be able to confidently complete applications developed

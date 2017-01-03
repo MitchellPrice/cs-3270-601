@@ -113,6 +113,8 @@ is unable to be accomplished we will take the test during a class period.
 Exams will be over any of the material that is either discussed in class, should have been used when
 completing a programming assignment, or over supplied reading material.   
 
+Final exam schedule can be found [on UVU's website, here](https://www.uvu.edu/asc/exam_schedule.html)    
+
 **Note: If the final exam is given in class, it will only be given during the scheduled day, no makeup**    
 
 ## QUIZZES

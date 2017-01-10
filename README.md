@@ -13,6 +13,17 @@ the python programming language.
 * Homepage: [Personal Page](http://www.mikewright.me)
 * Class: M,W 5:30-6:45
 
+### Communication
+
+* Twitter - [@mikekwright](https://twitter.com/mikekwright)    
+* Remind - SMS - [https://www.remind.com/join/cs3270](https://www.remind.com/join/cs3270)    
+
+### Slides
+
+The slides for the class should be found on google slides at this time.  All students will have access to view the
+slides [at this link](https://drive.google.com/drive/folders/0B8EInRKkbjikeW5qWFNzLU9FVEE?usp=sharing).     
+
+
 ## CLASS SCHEDULE
 
 The schedule for the class can be found on the courses [canvas page](https://uvu.instructure.com/courses/427573).   

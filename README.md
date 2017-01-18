@@ -23,10 +23,32 @@ the python programming language.
 The slides for the class should be found on google slides at this time.  All students will have access to view the
 slides [at this link](https://drive.google.com/drive/folders/0B8EInRKkbjikeW5qWFNzLU9FVEE?usp=sharing).     
 
-
 ## CLASS SCHEDULE
 
-The schedule for the class can be found on the courses [canvas page](https://uvu.instructure.com/courses/427573).   
+A detailed schedule for the class can be found on the courses [canvas page](https://uvu.instructure.com/courses/427573).   
+
+### Weekly Overview
+
+So the below schedule is broken out into 16 parts that should correspond to the 16 weeks that class is held, however
+some of the weeks will be shorter than others (given tests, vacataion days, etc). So there is likely going to be
+overlap between weeks on content.   
+
+1. Python Introduction - Quick Overview of major features. (book chap. 1)
+2. Git / IPython / Jupyter (book pg. 386-391, pg. 339-342)) and Py Ingredients - Numbers, String and Variabls (book chap. 2)
+3. Py Filling - Lists, Sets, Tuples and Dictionaries (book chap. 3)
+4. Py Code Structure - Conditionals, Loops and List Comprehensions (book 4 pg. 71-89)
+5. Py Code Structure - Functions, Generators, Decorators and Exceptions (book 4 pg. 89-110)
+6. Idiomatic Python (Part 1) - Unit Testing / Packages with PIP  (book 12 pg. 311-325)
+7. Py Library - Standard Library (book 5 pg. 116-124) & Working with Files (book 8 pg. 177-196)
+8. Py Programs - Modules and Packages (book 5 pg. 111-116) & Py Objects / Classes (book 6 pg. 125-147)
+9. SOLID development / PDB development (article, book pg. 332-335))
+10. Regex, Unicode and Binary Data (book 7 pg. 147-173) & Systems (book 10 pg. 247-265)
+11. Working with Relational Databases (book 8 pg. 196-209)
+12. Working with NoSQL (book 8 pg. 209-220)
+13. Creating a Web Server (book 9 pg. 230-243)
+14. Creating web clients (book 9 pg. 223-229, pg. 243-246)
+15. Concurrency in Python (book 11 pg. 267-282)
+16. Python Science (numpy, scikit) and C Integration (book 12 pg. 335-338, 373-385)
 
 ## READING MATERIAL
 

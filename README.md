@@ -113,6 +113,8 @@ For all the code that you submit you will need to make sure that the python you 
 using [Github](https://www.github.com) as our tool for both getting assignments and submitting
 your code.  
 
+A more detailed description of what is needed is defined in `SUBMISSIONS.md`    
+
 **Note: If you need a tutorial on git use [GitImmersion](http://gitimmersion.com/)**    
 
 ### Late Policy

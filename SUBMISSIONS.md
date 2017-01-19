@@ -40,10 +40,11 @@ To work with the assignments for this course you will need to accomplish the bel
 4. Email me the created repo to the address `mkwright+uvu@gmail.com`   
 5. Clone the repo to your local machine.   `git clone <your url>`   
 6. Navigate to the repo directory.  `cd <uvuid>-assignments`   
-7. Add this repo as the classes upstream repo `git remote add https://github.com/ninja-coders/cs-3270-601 or git@github.com:ninja-coders/cs-3270-601.git`   
+7. Add this repo as the classes upstream repo `git remote add upstream https://github.com/ninja-coders/cs-3270-601 or git@github.com:ninja-coders/cs-3270-601.git`   
 8. Pull down the upstream remote to your local system.  `git pull upstream master`   
-9. Add a file to the root of the repo named `student` fill that file with contents defined below   
-10. Commit the new file `git commit -am "Added student file"`   
-11. Push the repo with commits to your github repo `git push origin master`   
-12. Navigate to the repo in the browser of your choice and make sure it is visible   
+9. Add a file to the root of the repo named `student` fill that file with contents of `Your Name` and `UVUID`    
+10. Add the new file to staged `git add student`
+11. Commit the new file `git commit -m "Added student file"`   
+12. Push the repo with commits to your github repo `git push origin master`   
+13. Navigate to the repo in the browser of your choice and make sure it is visible   
 

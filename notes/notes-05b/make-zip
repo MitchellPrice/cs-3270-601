@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#vim :set filetype=sh:
+
+cd "$(dirname $0)"; cd zip_example
+
+rm ../app.zip
+zip -r ../app.zip *

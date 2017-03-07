@@ -3,5 +3,6 @@
 *.pyc
 tmp/
 answers/
+!assignments/answers/
 .env/
 .DS_Store

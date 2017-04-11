@@ -6,3 +6,7 @@ answers/
 !assignments/answers/
 .env/
 .DS_Store
+workspace
+.project
+.pydevproject
+

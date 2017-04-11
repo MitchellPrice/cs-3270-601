@@ -33,7 +33,7 @@ class TodoDatabase:
 
     def insert_todo(self, todo):
         print('Inserting todo: {}'.format(todo))
-        self.__execute('INSERT INTO Todo (todo) VALUES (?)', todo)
+        return tuple(self.__execute('INSERT INTO Todo (todo) VALUES (?)', todo))
 
     def list_todos(self, show_all=False):
         if show_all:
@@ -44,6 +44,9 @@ class TodoDatabase:
 
     def update_completed(self, todo_id, completed=True):
         self.__execute('UPDATE Todo SET completed = ? WHERE id = ?', int(completed), todo_id)
+        
+    def delete_todo(self, todo_id):
+        self.__execut('DELETE FROM Todo WHERE id = ?', int(todo_id))
 
     def __execute(self, command, *args):
         cur = self.__conn.cursor()
